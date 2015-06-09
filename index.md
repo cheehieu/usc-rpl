@@ -12,7 +12,7 @@ The [USC Rocket Propulsion Lab (RPL)](http://www.uscrpl.com/) is a team of USC e
 
 ## Team
 <img src="http://niftyhedgehog.com/usc-rpl/images/traveler_team.jpg">
-The 2012 USC RPL team before launching "Traveler" from Balls, CA.
+The 2012 USC RPL team before launching "Traveler" from the Mojave Desert, CA.
 
 
 ## Contributions
